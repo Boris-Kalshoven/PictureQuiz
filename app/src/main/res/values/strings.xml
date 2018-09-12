@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Picture Quiz</string>
+    <string name="radio_giraffe">Giraffe</string>
+    <string name="radio_frog">Frog</string>
+    <string name="radio_monkeys">Monkeys</string>
+    <string name="btn_Prev">PREV</string>
+    <string name="btn_Check">CHECK</string>
+    <string name="btn_Next">NEXt</string>
+</resources>
